@@ -71,7 +71,8 @@ Login/Signup screen
 🙌 Acknowledgements
 Designed and built with ❤️ for the fitness community.
 
-![Alt Text](screenshotss/image1.png)
+![](screenshotss/image1.png)
 ![Alt Text](screenshotss/image2.png)
-![Alt Text](screenshotss/image3.png)
+![Alt Text](screenshotss/image3.png)!
+![image1.png](screenshotss/image1.png)
 # fitnesstrainerapplication
